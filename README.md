@@ -1,4 +1,4 @@
-# TMCELL CLI Client
+# TMCELL CLI Client (Inspired by [Lunatik-cyber's project](https://github.com/Lunatik-cyber/TMCELL_profile))
 
 TMCell CLI Cabinet is a console Python interface for managing the personal account of a TMCell subscriber. Allows you to quickly manage packages, tariffs, services, send SMS, view your balance, payment and transfer history, and manage accounts directly from the terminal.
 
