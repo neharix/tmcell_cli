@@ -34,5 +34,8 @@ poetry install
 
 ## Maybe Soon
 
-- 🚀 **Faststream**: Integration with faststream for data retrieval in microservice environment
-
+- **Faststream Integration**
+- **Telegram Bot**
+- **Email newsletter**
+- **GUI/Web App**
+- **REST API(FastAPI)**
