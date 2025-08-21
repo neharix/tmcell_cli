@@ -31,3 +31,8 @@ poetry install
    ```
 3. Check the box next to Use environmental variables after you launch the application.
 
+
+## Maybe Soon
+
+- 🚀 **Faststream**: Integration with faststream for data retrieval in microservice environment
+
